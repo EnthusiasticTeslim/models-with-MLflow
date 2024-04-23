@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/606440103394080511/6ef86dbdcacf48a1ae9debfdc34917db/artifacts
+end_time: 1713876950090
+entry_point_name: ''
+experiment_id: '606440103394080511'
+lifecycle_stage: active
+run_id: 6ef86dbdcacf48a1ae9debfdc34917db
+run_name: colorful-toad-509
+run_uuid: 6ef86dbdcacf48a1ae9debfdc34917db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713876944978
+status: 3
+tags: []
+user_id: gbemidebe

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/353129226922139513/684d126138964c3bae5c0a30d17af3f9/artifacts
+end_time: 1713888912179
+entry_point_name: ''
+experiment_id: '353129226922139513'
+lifecycle_stage: active
+run_id: 684d126138964c3bae5c0a30d17af3f9
+run_name: unique-swan-83
+run_uuid: 684d126138964c3bae5c0a30d17af3f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713888872050
+status: 3
+tags: []
+user_id: gbemidebe

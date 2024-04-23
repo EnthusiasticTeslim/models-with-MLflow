@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/711076544128839057/59ba31c33d75487382865f7eeca4e897/artifacts
+end_time: 1713883636793
+entry_point_name: ''
+experiment_id: '711076544128839057'
+lifecycle_stage: active
+run_id: 59ba31c33d75487382865f7eeca4e897
+run_name: colorful-tern-883
+run_uuid: 59ba31c33d75487382865f7eeca4e897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713883598843
+status: 3
+tags: []
+user_id: gbemidebe

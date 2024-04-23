@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/842282189718591904/369aceba9d8c4d7882724efb010ee614/artifacts
+end_time: 1713880446210
+entry_point_name: ''
+experiment_id: '842282189718591904'
+lifecycle_stage: active
+run_id: 369aceba9d8c4d7882724efb010ee614
+run_name: upset-koi-503
+run_uuid: 369aceba9d8c4d7882724efb010ee614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713880431689
+status: 3
+tags: []
+user_id: gbemidebe

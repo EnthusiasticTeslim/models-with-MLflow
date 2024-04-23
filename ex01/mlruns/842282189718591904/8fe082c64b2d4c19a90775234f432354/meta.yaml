@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/842282189718591904/8fe082c64b2d4c19a90775234f432354/artifacts
+end_time: 1713880442254
+entry_point_name: ''
+experiment_id: '842282189718591904'
+lifecycle_stage: active
+run_id: 8fe082c64b2d4c19a90775234f432354
+run_name: wistful-cub-143
+run_uuid: 8fe082c64b2d4c19a90775234f432354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713880431808
+status: 3
+tags: []
+user_id: gbemidebe

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/606440103394080511/e92ac4e432a34477a0b8ae9b96800403/artifacts
+end_time: 1713876954608
+entry_point_name: ''
+experiment_id: '606440103394080511'
+lifecycle_stage: active
+run_id: e92ac4e432a34477a0b8ae9b96800403
+run_name: mercurial-stork-487
+run_uuid: e92ac4e432a34477a0b8ae9b96800403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713876950126
+status: 3
+tags: []
+user_id: gbemidebe

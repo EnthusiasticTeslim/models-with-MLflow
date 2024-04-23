@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/842282189718591904/502c872c4d854a1ca85c07dff6e2c258/artifacts
+end_time: 1713881775189
+entry_point_name: ''
+experiment_id: '842282189718591904'
+lifecycle_stage: active
+run_id: 502c872c4d854a1ca85c07dff6e2c258
+run_name: bemused-lamb-397
+run_uuid: 502c872c4d854a1ca85c07dff6e2c258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713881764632
+status: 3
+tags: []
+user_id: gbemidebe

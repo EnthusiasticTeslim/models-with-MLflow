@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/711076544128839057/ba91758f7d76457ba751aeacbe020e68/artifacts
+end_time: 1713883632938
+entry_point_name: ''
+experiment_id: '711076544128839057'
+lifecycle_stage: active
+run_id: ba91758f7d76457ba751aeacbe020e68
+run_name: secretive-hog-903
+run_uuid: ba91758f7d76457ba751aeacbe020e68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713883599024
+status: 3
+tags: []
+user_id: gbemidebe

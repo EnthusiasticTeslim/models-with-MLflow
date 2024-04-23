@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/606440103394080511/f958212a00894cb38a97afebd9900f56/artifacts
+end_time: 1713876770513
+entry_point_name: ''
+experiment_id: '606440103394080511'
+lifecycle_stage: active
+run_id: f958212a00894cb38a97afebd9900f56
+run_name: languid-skink-555
+run_uuid: f958212a00894cb38a97afebd9900f56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713876765853
+status: 3
+tags: []
+user_id: gbemidebe

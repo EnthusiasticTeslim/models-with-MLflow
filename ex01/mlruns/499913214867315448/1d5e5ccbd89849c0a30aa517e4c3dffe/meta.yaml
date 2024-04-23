@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/499913214867315448/1d5e5ccbd89849c0a30aa517e4c3dffe/artifacts
+end_time: 1713887025107
+entry_point_name: ''
+experiment_id: '499913214867315448'
+lifecycle_stage: active
+run_id: 1d5e5ccbd89849c0a30aa517e4c3dffe
+run_name: treasured-goat-548
+run_uuid: 1d5e5ccbd89849c0a30aa517e4c3dffe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713887018499
+status: 3
+tags: []
+user_id: gbemidebe

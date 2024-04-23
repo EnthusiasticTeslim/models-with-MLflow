@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/606440103394080511/5165519c84004b84a301313ffb3686fa/artifacts
+end_time: 1713876973056
+entry_point_name: ''
+experiment_id: '606440103394080511'
+lifecycle_stage: active
+run_id: 5165519c84004b84a301313ffb3686fa
+run_name: sneaky-stag-721
+run_uuid: 5165519c84004b84a301313ffb3686fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713876968567
+status: 3
+tags: []
+user_id: gbemidebe

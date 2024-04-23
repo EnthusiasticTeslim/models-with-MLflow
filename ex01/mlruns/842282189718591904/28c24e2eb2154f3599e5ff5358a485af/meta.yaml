@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/842282189718591904/28c24e2eb2154f3599e5ff5358a485af/artifacts
+end_time: 1713880479685
+entry_point_name: ''
+experiment_id: '842282189718591904'
+lifecycle_stage: active
+run_id: 28c24e2eb2154f3599e5ff5358a485af
+run_name: omniscient-foal-843
+run_uuid: 28c24e2eb2154f3599e5ff5358a485af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713880451913
+status: 3
+tags: []
+user_id: gbemidebe

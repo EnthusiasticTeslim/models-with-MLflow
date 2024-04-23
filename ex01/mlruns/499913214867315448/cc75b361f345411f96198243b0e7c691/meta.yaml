@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/499913214867315448/cc75b361f345411f96198243b0e7c691/artifacts
+end_time: 1713887192222
+entry_point_name: ''
+experiment_id: '499913214867315448'
+lifecycle_stage: active
+run_id: cc75b361f345411f96198243b0e7c691
+run_name: fearless-squid-639
+run_uuid: cc75b361f345411f96198243b0e7c691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713887178971
+status: 3
+tags: []
+user_id: gbemidebe

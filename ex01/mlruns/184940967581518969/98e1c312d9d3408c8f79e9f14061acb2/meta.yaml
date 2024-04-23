@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/184940967581518969/98e1c312d9d3408c8f79e9f14061acb2/artifacts
+end_time: 1713840885290
+entry_point_name: ''
+experiment_id: '184940967581518969'
+lifecycle_stage: active
+run_id: 98e1c312d9d3408c8f79e9f14061acb2
+run_name: wistful-lark-865
+run_uuid: 98e1c312d9d3408c8f79e9f14061acb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713840882565
+status: 3
+tags: []
+user_id: gbemidebe

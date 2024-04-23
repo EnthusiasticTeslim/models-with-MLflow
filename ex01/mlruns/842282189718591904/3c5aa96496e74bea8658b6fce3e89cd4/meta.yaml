@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/842282189718591904/3c5aa96496e74bea8658b6fce3e89cd4/artifacts
+end_time: 1713880579475
+entry_point_name: ''
+experiment_id: '842282189718591904'
+lifecycle_stage: active
+run_id: 3c5aa96496e74bea8658b6fce3e89cd4
+run_name: mysterious-ant-784
+run_uuid: 3c5aa96496e74bea8658b6fce3e89cd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713880570304
+status: 3
+tags: []
+user_id: gbemidebe

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/711076544128839057/d0bdc40ea74b4673a3967c89a536ba22/artifacts
+end_time: 1713883811935
+entry_point_name: ''
+experiment_id: '711076544128839057'
+lifecycle_stage: active
+run_id: d0bdc40ea74b4673a3967c89a536ba22
+run_name: skittish-steed-149
+run_uuid: d0bdc40ea74b4673a3967c89a536ba22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713883729519
+status: 3
+tags: []
+user_id: gbemidebe

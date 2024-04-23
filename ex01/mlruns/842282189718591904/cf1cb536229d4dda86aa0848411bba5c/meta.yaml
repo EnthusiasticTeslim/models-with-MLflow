@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/842282189718591904/cf1cb536229d4dda86aa0848411bba5c/artifacts
+end_time: 1713880483673
+entry_point_name: ''
+experiment_id: '842282189718591904'
+lifecycle_stage: active
+run_id: cf1cb536229d4dda86aa0848411bba5c
+run_name: smiling-turtle-399
+run_uuid: cf1cb536229d4dda86aa0848411bba5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713880451874
+status: 3
+tags: []
+user_id: gbemidebe

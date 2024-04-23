@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/499913214867315448/db800e8ba57d4813bdfd84d09ad61080/artifacts
+end_time: 1713884454609
+entry_point_name: ''
+experiment_id: '499913214867315448'
+lifecycle_stage: active
+run_id: db800e8ba57d4813bdfd84d09ad61080
+run_name: marvelous-shoat-475
+run_uuid: db800e8ba57d4813bdfd84d09ad61080
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713884454532
+status: 4
+tags: []
+user_id: gbemidebe

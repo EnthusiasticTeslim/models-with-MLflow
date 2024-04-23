@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/499913214867315448/ced1a726a53e4b31b3d85935d9023c0f/artifacts
+end_time: 1713887280994
+entry_point_name: ''
+experiment_id: '499913214867315448'
+lifecycle_stage: active
+run_id: ced1a726a53e4b31b3d85935d9023c0f
+run_name: unequaled-goose-589
+run_uuid: ced1a726a53e4b31b3d85935d9023c0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713887275838
+status: 3
+tags: []
+user_id: gbemidebe

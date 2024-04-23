@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/606440103394080511/7bdebb4f7fe648eda6ea210e8028d567/artifacts
+end_time: 1713876784286
+entry_point_name: ''
+experiment_id: '606440103394080511'
+lifecycle_stage: active
+run_id: 7bdebb4f7fe648eda6ea210e8028d567
+run_name: delicate-shad-331
+run_uuid: 7bdebb4f7fe648eda6ea210e8028d567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713876779738
+status: 3
+tags: []
+user_id: gbemidebe

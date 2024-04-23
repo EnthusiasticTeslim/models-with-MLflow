@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/499913214867315448/6b5eb63bd00d44a7a7545c791d0b92b9/artifacts
+end_time: 1713884519862
+entry_point_name: ''
+experiment_id: '499913214867315448'
+lifecycle_stage: active
+run_id: 6b5eb63bd00d44a7a7545c791d0b92b9
+run_name: indecisive-boar-156
+run_uuid: 6b5eb63bd00d44a7a7545c791d0b92b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713884513914
+status: 3
+tags: []
+user_id: gbemidebe

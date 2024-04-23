@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/499913214867315448/1878e0810a194e5ca9d9772e00a6d944/artifacts
+end_time: 1713887092933
+entry_point_name: ''
+experiment_id: '499913214867315448'
+lifecycle_stage: active
+run_id: 1878e0810a194e5ca9d9772e00a6d944
+run_name: skittish-trout-66
+run_uuid: 1878e0810a194e5ca9d9772e00a6d944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713887087571
+status: 3
+tags: []
+user_id: gbemidebe

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/499913214867315448/ba6bd4e3605d46278992401cd395f788/artifacts
+end_time: 1713884816221
+entry_point_name: ''
+experiment_id: '499913214867315448'
+lifecycle_stage: active
+run_id: ba6bd4e3605d46278992401cd395f788
+run_name: adorable-steed-51
+run_uuid: ba6bd4e3605d46278992401cd395f788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713884806582
+status: 3
+tags: []
+user_id: gbemidebe

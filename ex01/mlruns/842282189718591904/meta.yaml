@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/842282189718591904
+creation_time: 1713880431680
+experiment_id: '842282189718591904'
+last_update_time: 1713880431680
+lifecycle_stage: active
+name: random-wine-quality

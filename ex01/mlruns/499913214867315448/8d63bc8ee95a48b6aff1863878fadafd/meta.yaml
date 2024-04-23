@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/499913214867315448/8d63bc8ee95a48b6aff1863878fadafd/artifacts
+end_time: 1713887097003
+entry_point_name: ''
+experiment_id: '499913214867315448'
+lifecycle_stage: active
+run_id: 8d63bc8ee95a48b6aff1863878fadafd
+run_name: bold-zebra-268
+run_uuid: 8d63bc8ee95a48b6aff1863878fadafd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713887087503
+status: 3
+tags: []
+user_id: gbemidebe

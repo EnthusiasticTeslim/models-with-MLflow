@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/353129226922139513/56abfb5cf8ba46e180535a72d3fca07c/artifacts
+end_time: 1713888316554
+entry_point_name: ''
+experiment_id: '353129226922139513'
+lifecycle_stage: active
+run_id: 56abfb5cf8ba46e180535a72d3fca07c
+run_name: luxuriant-wren-509
+run_uuid: 56abfb5cf8ba46e180535a72d3fca07c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713888284437
+status: 3
+tags: []
+user_id: gbemidebe

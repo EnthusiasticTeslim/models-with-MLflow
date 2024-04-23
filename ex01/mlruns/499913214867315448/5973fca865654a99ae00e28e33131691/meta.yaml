@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/499913214867315448/5973fca865654a99ae00e28e33131691/artifacts
+end_time: 1713887285049
+entry_point_name: ''
+experiment_id: '499913214867315448'
+lifecycle_stage: active
+run_id: 5973fca865654a99ae00e28e33131691
+run_name: rebellious-boar-699
+run_uuid: 5973fca865654a99ae00e28e33131691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713887275760
+status: 3
+tags: []
+user_id: gbemidebe

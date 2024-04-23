@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/499913214867315448/8030b23724bf471bba8fe3132523fd4e/artifacts
+end_time: 1713884574493
+entry_point_name: ''
+experiment_id: '499913214867315448'
+lifecycle_stage: active
+run_id: 8030b23724bf471bba8fe3132523fd4e
+run_name: placid-cow-515
+run_uuid: 8030b23724bf471bba8fe3132523fd4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713884532055
+status: 3
+tags: []
+user_id: gbemidebe

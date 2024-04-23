@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/606440103394080511/484918497c2746419b1a2a4ed4a6f451/artifacts
+end_time: 1713876983206
+entry_point_name: ''
+experiment_id: '606440103394080511'
+lifecycle_stage: active
+run_id: 484918497c2746419b1a2a4ed4a6f451
+run_name: fun-eel-837
+run_uuid: 484918497c2746419b1a2a4ed4a6f451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713876977992
+status: 3
+tags: []
+user_id: gbemidebe

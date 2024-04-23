@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/353129226922139513/53dee74dedab458c86e6c2e41aeeabea/artifacts
+end_time: 1713888607442
+entry_point_name: ''
+experiment_id: '353129226922139513'
+lifecycle_stage: active
+run_id: 53dee74dedab458c86e6c2e41aeeabea
+run_name: awesome-duck-613
+run_uuid: 53dee74dedab458c86e6c2e41aeeabea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713888568323
+status: 3
+tags: []
+user_id: gbemidebe

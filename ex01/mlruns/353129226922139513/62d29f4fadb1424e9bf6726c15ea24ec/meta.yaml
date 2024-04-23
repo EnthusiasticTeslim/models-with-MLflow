@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/353129226922139513/62d29f4fadb1424e9bf6726c15ea24ec/artifacts
+end_time: 1713888980593
+entry_point_name: ''
+experiment_id: '353129226922139513'
+lifecycle_stage: active
+run_id: 62d29f4fadb1424e9bf6726c15ea24ec
+run_name: painted-newt-370
+run_uuid: 62d29f4fadb1424e9bf6726c15ea24ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713888952796
+status: 3
+tags: []
+user_id: gbemidebe

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/606440103394080511/dbc2a95dcae7488fa404f8bebf1ce8ba/artifacts
+end_time: 1713876765808
+entry_point_name: ''
+experiment_id: '606440103394080511'
+lifecycle_stage: active
+run_id: dbc2a95dcae7488fa404f8bebf1ce8ba
+run_name: fearless-stoat-820
+run_uuid: dbc2a95dcae7488fa404f8bebf1ce8ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713876759071
+status: 3
+tags: []
+user_id: gbemidebe

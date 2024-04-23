@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/499913214867315448/7e940633d2bc4bfda0ff939738258838/artifacts
+end_time: 1713887188235
+entry_point_name: ''
+experiment_id: '499913214867315448'
+lifecycle_stage: active
+run_id: 7e940633d2bc4bfda0ff939738258838
+run_name: rogue-cow-916
+run_uuid: 7e940633d2bc4bfda0ff939738258838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713887179051
+status: 3
+tags: []
+user_id: gbemidebe

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/606440103394080511/535a69d01a44465c93985e9942acc93d/artifacts
+end_time: 1713876775118
+entry_point_name: ''
+experiment_id: '606440103394080511'
+lifecycle_stage: active
+run_id: 535a69d01a44465c93985e9942acc93d
+run_name: puzzled-ox-951
+run_uuid: 535a69d01a44465c93985e9942acc93d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713876770551
+status: 3
+tags: []
+user_id: gbemidebe

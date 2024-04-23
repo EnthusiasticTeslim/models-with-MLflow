@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/606440103394080511/18b63cd8b40142a4b1228ed6d83a3de4/artifacts
+end_time: 1713876959282
+entry_point_name: ''
+experiment_id: '606440103394080511'
+lifecycle_stage: active
+run_id: 18b63cd8b40142a4b1228ed6d83a3de4
+run_name: mercurial-jay-846
+run_uuid: 18b63cd8b40142a4b1228ed6d83a3de4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713876954651
+status: 3
+tags: []
+user_id: gbemidebe
